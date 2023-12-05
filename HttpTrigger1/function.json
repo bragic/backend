@@ -21,7 +21,7 @@
       "direction": "in",
       "name": "inputDocument",
       "databaseName": "my-database",
-      "collectionName": "Counter",
+      "collectionName": "my-container",
       "createIfNotExists": false,
       "connectionStringSetting": "CosmosDbConnectionString"
     },
@@ -30,7 +30,7 @@
       "direction": "out",
       "name": "outputDocument",
       "databaseName": "my-database",
-      "collectionName": "Counter",
+      "collectionName": "my-container",
       "createIfNotExists": false,
       "connectionStringSetting": "CosmosDbConnectionString"
     }
